@@ -21,7 +21,7 @@ body {
 }
 
 * { margin: 0; padding: 0; outline: none !important; }
-img { max-width: 65%; vertical-align: middle; }
+img { max-width: 50%; vertical-align: middle; }
 ul { list-: none; margin: 0; padding: 0; }
 a, a:hover { text-decoration: none; }
 
