@@ -22,7 +22,7 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 
 > Add a screenshot or live demo link here
 
-[Live Demo](https://yourusername.github.io/portfolio)
+[Live Demo](https://payalmundlik.github.io/Portfolio/)
 
 ## 📁 Folder Structure
 
